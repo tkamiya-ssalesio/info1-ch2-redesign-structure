@@ -9,7 +9,8 @@
         "github.copilot-chat"
       ],
       "settings": {
-        "liveServer.settings.defaultHtml": "index.html"
+        "liveServer.settings.defaultHtml": "index.html",
+        "terminal.integrated.showOnStartup": "never"
       }
     }
   },

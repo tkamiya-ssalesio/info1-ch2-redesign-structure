@@ -1,6 +1,5 @@
 {
-  "livePreview.autoRefreshPreview": "On After Delay",
-  "livePreview.defaultPreviewPath": "/index.html",
-  "livePreview.notifyPortBurn": false,
+  "liveServer.settings.defaultHtml": "index.html",
+  "terminal.integrated.showOnStartup": "never",
   "chat.agent.enabled": false
 }
